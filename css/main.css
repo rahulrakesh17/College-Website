@@ -9,24 +9,27 @@
     justify-content: center;
 }
 .col{
-    border: solid 1px red;
+    border: solid 1px crimson;
     height: 40px;
 }
 .header-top{
-    background-color: #169FCC;
+    background-color: navy;
     height: 80px;
 }
 .nav-section{
-    background-color: #169FCC;
+    background-color: navy;
     height: 80px;
 }
 .academic{
-    background-color: #169FCC;
+    background-color: navy;
     height: 500px;
 }
 .row-wrap{
     flex-wrap: wrap;
     justify-content:flex-start;
+}
+.header-top div div{
+    height: 50px;
 }
 .col{
     height: 300px;
